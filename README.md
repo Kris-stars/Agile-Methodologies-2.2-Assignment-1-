@@ -1,1 +1,1 @@
-# Krys and Aofie tell me when you joined 
+# Krys and Aofie inform me of any updates
