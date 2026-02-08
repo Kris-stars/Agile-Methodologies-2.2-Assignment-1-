@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\Users\krist\OneDrive - TUS MM\Java_code\.metadata\.plugins\org.eclipse.jdt.core
-600110815.index
-1865797976.index
-3718833800.index
